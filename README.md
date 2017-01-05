@@ -1,9 +1,1 @@
-# colorgame
-# webtests
-# webtests
-# todolist
-# patatap-clone
-# aegisCYOA
-# snakegame
-# lab2
-# lab2
+# web-map-app
