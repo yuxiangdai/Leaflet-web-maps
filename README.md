@@ -1,1 +1,1 @@
-# web-map-app
+Leaflet.js maps using Folium and Python
